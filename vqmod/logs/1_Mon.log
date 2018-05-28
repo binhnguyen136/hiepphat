@@ -1,0 +1,15 @@
+---------- Date: 2015-10-26 15:09:25 ~ IP : 123.21.29.48 ----------
+REQUEST URI : /admin/index.php?route=common/dashboard&token=4b725f062aa204c1c05fc9ce177cf38f
+MOD DETAILS:
+   modFile   : /home/hiepph96/public_html/vqmod/xml/shopme_product_tabs_admin.xml
+   id        : Additional Product Tabs
+   version   : 1.0.3
+   vqmver    : 2.2.1
+   author    : Godfrey Livinstone
+
+File Name    : admin/model/catalog/product.php(2)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): $data = array_merge($data, array('product_attribute' => $this->getProductAttributes($product_id)));
+
+----------------------------------------------------------------------
+
+

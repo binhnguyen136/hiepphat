@@ -1,0 +1,60 @@
+---------- Date: 2017-04-19 09:39:11 ~ IP : 27.74.243.208 ----------
+REQUEST URI : /admin/index.php?route=common/dashboard&token=0aaa44fa5a93762a04dffc183cdc900f
+MOD DETAILS:
+   modFile   : /home/hiepph96/public_html/vqmod/xml/shopme_product_tabs_admin.xml
+   id        : Additional Product Tabs
+   version   : 1.0.3
+   vqmver    : 2.2.1
+   author    : Godfrey Livinstone
+
+File Name    : admin/model/catalog/product.php(2)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): $data = array_merge($data, array('product_attribute' => $this->getProductAttributes($product_id)));
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-04-19 09:45:03 ~ IP : 27.74.243.208 ----------
+REQUEST URI : /admin/index.php?route=module/vqmod_manager&token=8a137c09e576d23b5539b3741207edfe
+MOD DETAILS:
+   modFile   : /home/hiepph96/public_html/vqmod/xml/shopme_product_tabs_admin.xml
+   id        : Additional Product Tabs
+   version   : 1.0.3
+   vqmver    : 2.2.1
+   author    : Godfrey Livinstone
+
+File Name    : admin/model/catalog/product.php(2)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): $data = array_merge($data, array('product_attribute' => $this->getProductAttributes($product_id)));
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-04-19 09:49:38 ~ IP : 27.74.243.208 ----------
+REQUEST URI : /admin/index.php?route=module/vqmod_manager&token=8a137c09e576d23b5539b3741207edfe
+MOD DETAILS:
+   modFile   : /home/hiepph96/public_html/vqmod/xml/shopme_product_tabs_admin.xml
+   id        : Additional Product Tabs
+   version   : 1.0.3
+   vqmver    : 2.2.1
+   author    : Godfrey Livinstone
+
+File Name    : admin/model/catalog/product.php(2)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): $data = array_merge($data, array('product_attribute' => $this->getProductAttributes($product_id)));
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-04-19 09:49:48 ~ IP : 27.74.243.208 ----------
+REQUEST URI : /admin/index.php?route=module/vqmod_manager&token=8a137c09e576d23b5539b3741207edfe
+MOD DETAILS:
+   modFile   : /home/hiepph96/public_html/vqmod/xml/shopme_product_tabs_admin.xml
+   id        : Additional Product Tabs
+   version   : 1.0.3
+   vqmver    : 2.2.1
+   author    : Godfrey Livinstone
+
+File Name    : admin/model/catalog/product.php(2)
+VQModObject::applyMod - SEARCH NOT FOUND (SKIPPED): $data = array_merge($data, array('product_attribute' => $this->getProductAttributes($product_id)));
+
+----------------------------------------------------------------------
+
+
